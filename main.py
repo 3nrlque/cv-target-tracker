@@ -142,7 +142,7 @@ def frame(cam):
 
 
 def main():
-    time.sleep(1)  # Delay
+    time.sleep(3)  # Delay
     print("Start")
     cam = cam_init()
     try:
