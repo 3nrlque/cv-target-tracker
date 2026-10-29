@@ -2,7 +2,9 @@
 
 A computer vision project that detects targets and automatically moves the mouse cursor toward them. The project combines real-time screen capture, HSV colour segmentation, contour analysis, and mouse input simulation. The project was built with OpenCV and [bettercam](https://github.com/RootKit-Org/BetterCam) and tested in [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/).
 
-![Demo](assets/demo.gif)
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo" width="720">
+</p>
 
 > **Disclaimer:** This project was created purely for educational and proof-of-concept purposes (exploring computer vision and input automation). Do not use it in online multiplayer games. It is an independent project and is not affiliated with or endorsed by the creators of Aimlabs.
 
