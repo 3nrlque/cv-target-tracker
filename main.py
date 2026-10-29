@@ -32,7 +32,7 @@ SETTLE = 0.03                   # wait for the next frame
 
 # Modes
 RETURN_HOME = False             # move the crosshair back to its start position after each shot
-SHOW_DEBUG = False              # show mask info
+SHOW_DEBUG = False              # debug info
 # ==================
 
 # Mouse starting location
