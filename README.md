@@ -58,7 +58,7 @@ Parameters can be adjusted directly at the top of `main.py`.
 pip install numpy opencv-python bettercam
 ```
 
-## Usage
+## How to use
 
 1. Turn off mouse acceleration in the game and Enhance pointer precision in Windows.
 2. Set `REGION` in `main.py` to your screen resolution.
